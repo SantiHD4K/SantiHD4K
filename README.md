@@ -21,7 +21,7 @@ Soy un **desarrollador full-stack** con experiencia en una variedad de tecnolog�
 ## 💻 Algunos proyectos destacados
 
 Puedes ver mis proyectos más recientes en mi repositorio de GitHub:  
-[**Repositorio de GitHub**]([https://github.com/SantiHD4K](https://github.com/SantiHD4K?tab=repositories))
+[**Repositorio de GitHub**]([https://github.com/SantiHD4K?tab=repositories])
 
 ## 📈 Estadísticas de GitHub
 
